@@ -50,10 +50,6 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 <p align="center">
   <img src="https://img.shields.io/badge/OSINT-1E88E5?style=for-the-badge">
   <img src="https://img.shields.io/badge/Forensics-8E24AA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge">
 </p>
 
 ---
