@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1300555936968212541/1305007422221455390/228C49E1-44D4-46BE-8AC9-EA847DBF9261.gif" width="100%" />
+</p>
+
 <h1 align="center">⚡ Oxzero4 CTF Writeups ⚡</h1>
 
 <p align="center">
@@ -57,7 +61,7 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 ## ⚡ Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xzero4&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oxzero4&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" />
 </p>
 
 ---
@@ -72,5 +76,5 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:00F7FF&height=180&section=footer&text=0xzero%204&fontColor=00F7FF&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:00F7FF&height=180&section=footer&text=Oxzero4&fontColor=00F7FF&fontSize=28" />
 </p>
