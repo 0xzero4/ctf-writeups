@@ -72,5 +72,5 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20002c,100:cbb4d4&height=180&section=footer&text=CTF%20WRITEUPS&fontColor=ffffff&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:00F7FF&height=180&section=footer&text=SYSTEM%20ACTIVE&fontColor=00F7FF&fontSize=28" />
 </p>
