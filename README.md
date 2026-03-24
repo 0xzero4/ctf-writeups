@@ -1,6 +1,6 @@
 # 🧠 CTF Writeups
 
-A collection of my CTF challenge writeups, focused on OSINT and Digital Forensics.
+A collection of my CTF challenge writeups focused on OSINT and Digital Forensics.
 
 ---
 
