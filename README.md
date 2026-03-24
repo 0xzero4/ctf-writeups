@@ -72,10 +72,5 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00F7FF&height=180&section=footer&text=KEEP%20HACKING%20&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20002c,100:cbb4d4&height=180&section=footer&text=CTF%20WRITEUPS&fontColor=ffffff&fontSize=28" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Stay+Curious;Break+Things;Learn+Everything" />
-</p>
-
