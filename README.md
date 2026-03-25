@@ -70,7 +70,7 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 
 - Build a strong CTF portfolio
 - Share clean and useful writeups
-- Improve investigation and problem-solving skills
+- Improve investigation and problem + solving skills
 - Keep learning and documenting everything
 
 ---
