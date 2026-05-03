@@ -57,7 +57,6 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 </p>
 
 ---
----
 
 ## 🎯 Goals
 
