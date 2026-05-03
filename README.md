@@ -57,13 +57,6 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 </p>
 
 ---
-
-## ⚡ Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xzero4&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" />
-</p>
-
 ---
 
 ## 🎯 Goals
