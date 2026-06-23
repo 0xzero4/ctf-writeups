@@ -68,5 +68,5 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 ---
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1430942197980594268/1516531799826763937/1500x500.jpg?ex=6a3b8d8c&is=6a3a3c0c&hm=763142d72bad5ec26bbfdff4a56d893051057928c314cba37dabcfaf6b53f738&" />
+  <img src="https://cdn.discordapp.com/attachments/1376817532652093486/1519010391609442577/image.png?ex=6a3c002b&is=6a3aaeab&hm=9bdc75d4ca9ee91b0982ca20c79cbff2aece7d6da1924b63d0711a7a16790c82&" />
 </p>
