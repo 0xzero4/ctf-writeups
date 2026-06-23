@@ -68,5 +68,5 @@ I use it to document challenges, solutions, tools, methodologies, and lessons le
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:00F7FF&height=180&section=footer&text=Oxzero4&fontColor=00F7FF&fontSize=28" />
+  <img src="https://cdn.discordapp.com/attachments/1430942197980594268/1516531799826763937/1500x500.jpg?ex=6a3b8d8c&is=6a3a3c0c&hm=763142d72bad5ec26bbfdff4a56d893051057928c314cba37dabcfaf6b53f738&" />
 </p>
